@@ -2,4 +2,3 @@
 
 - LSTM
 - Bi- LSTM
-- Hierachy - LSTM
