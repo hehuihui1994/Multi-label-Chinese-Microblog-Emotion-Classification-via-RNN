@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# @author: zxding
-# email: d.z.x@qq.com
 
 
 import sys
